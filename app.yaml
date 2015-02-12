@@ -1,4 +1,4 @@
-application: bbysemweb-retired-app-engine
+application: twevite
 version: 1
 runtime: python27
 api_version: 1
